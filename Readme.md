@@ -4,3 +4,5 @@ RTABMapから出力した？plyはエラーはでないが表示されない、�
 
 https://qiita.com/nnn112358/items/dd4cbfbbd76d06799ea1
 この記事のようにPotreeを使う？？
+
+https://kokitakeishi.github.io/3dmapviewer/index.html
